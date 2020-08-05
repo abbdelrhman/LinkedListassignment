@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LinkedList:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdad8a5a-828d-437c-a627-c5972e5aa8bb" name="Default Changelist" comment="" />
+    <list default="true" id="3814ef54-4da4-492c-b2a5-64b7dd462511" name="Default Changelist" comment="final commit">
+      <change afterPath="$PROJECT_DIR$/../HangmanGame/HangmanGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/LinkedList_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eg/edu/alexu/csd/datastructure/linkedList/cs36/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eg/edu/alexu/csd/datastructure/linkedList/cs36/DNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eg/edu/alexu/csd/datastructure/linkedList/cs36/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eg/edu/alexu/csd/datastructure/linkedList/cs36/DoubleLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eg/edu/alexu/csd/datastructure/linkedList/cs36/ILinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eg/edu/alexu/csd/datastructure/linkedList/cs36/IPolynomialSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eg/edu/alexu/csd/datastructure/linkedList/cs36/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eg/edu/alexu/csd/datastructure/linkedList/cs36/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eg/edu/alexu/csd/datastructure/linkedList/cs36/PolynomialSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eg/edu/alexu/csd/datastructure/linkedList/cs36/PolynomialSolverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eg/edu/alexu/csd/datastructure/linkedList/cs36/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eg/edu/alexu/csd/datastructure/linkedList/cs36/SingleLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculatorAssignment1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ICalculator.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,25 +43,143 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Interface" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1eQFaoKEimXYlAfaYyLso0uBmEY" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\CSED\data structure 1\LinkedList\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fBatjSEBY4DMnSfvchJjGzXYDz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HangmanGame" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documents/lib/javafx-sdk-11.0.2/lib/javafx.web.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="eg.edu.alexu.csd.datastructure.linkedList.cs36" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="eg.edu.alexu.csd.datastructure.linkedList.cs36" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eg.edu.alexu.csd.datastructure.linkedList.cs36.App" />
+      <module name="LinkedList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eg.edu.alexu.csd.datastructure.linkedList.cs36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eg.edu.alexu.csd.datastructure.linkedList.cs36.Main" />
+      <module name="LinkedList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eg.edu.alexu.csd.datastructure.linkedList.cs36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolynomialSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eg.edu.alexu.csd.datastructure.linkedList.cs36.PolynomialSolver" />
+      <module name="LinkedList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eg.edu.alexu.csd.datastructure.linkedList.cs36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolynomialSolverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LinkedList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eg.edu.alexu.csd.datastructure.linkedList.cs36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eg.edu.alexu.csd.datastructure.linkedList.cs36" />
+      <option name="MAIN_CLASS_NAME" value="eg.edu.alexu.csd.datastructure.linkedList.cs36.PolynomialSolverTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolynomialSolverTest.testSolveMULTIBLY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LinkedList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eg.edu.alexu.csd.datastructure.linkedList.cs36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eg.edu.alexu.csd.datastructure.linkedList.cs36" />
+      <option name="MAIN_CLASS_NAME" value="eg.edu.alexu.csd.datastructure.linkedList.cs36.PolynomialSolverTest" />
+      <option name="METHOD_NAME" value="testSolveMULTIBLY" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.PolynomialSolverTest" />
+        <item itemvalue="JUnit.PolynomialSolverTest.testSolveMULTIBLY" />
+        <item itemvalue="Application.PolynomialSolver" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -47,41 +198,148 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bdad8a5a-828d-437c-a627-c5972e5aa8bb" name="Default Changelist" comment="" />
-      <created>1594245975304</created>
+      <changelist id="3814ef54-4da4-492c-b2a5-64b7dd462511" name="Default Changelist" comment="" />
+      <created>1595694155576</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1594245975304</updated>
-      <workItem from="1594245981289" duration="1496000" />
-      <workItem from="1594439736144" duration="618000" />
-      <workItem from="1594478777734" duration="1146000" />
-      <workItem from="1594523929982" duration="81000" />
+      <updated>1595694155576</updated>
+      <workItem from="1595694158112" duration="2193000" />
+      <workItem from="1595704830021" duration="14595000" />
+      <workItem from="1595772897830" duration="5682000" />
+      <workItem from="1595788823492" duration="3170000" />
+      <workItem from="1595874451226" duration="7964000" />
+      <workItem from="1595890043506" duration="7689000" />
+      <workItem from="1595952687337" duration="1577000" />
+      <workItem from="1595960643745" duration="4405000" />
+      <workItem from="1595973707075" duration="10995000" />
+      <workItem from="1596037627703" duration="1882000" />
+      <workItem from="1596067736166" duration="675000" />
+      <workItem from="1596163470343" duration="1559000" />
+      <workItem from="1596168979316" duration="1815000" />
+      <workItem from="1596432834681" duration="2884000" />
+      <workItem from="1596472035437" duration="6253000" />
+      <workItem from="1596528814841" duration="2998000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="75" key="#Project_Structure" timestamp="1594246044778">
+    <state x="361" y="75" key="#Project_Structure" timestamp="1595694161533">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="75" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1594246044778" />
-    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1594246188081">
+    <state x="361" y="75" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1595694161533" />
+    <state x="361" y="75" key="#Updates" timestamp="1595961317735">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594246188081" />
-    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1594524009599">
+    <state x="361" y="75" key="#Updates/0.0.1536.824@0.0.1536.824" timestamp="1595961317735" />
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1595882292139">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594524009599" />
-    <state x="31" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1594523967133">
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595882292139" />
+    <state x="499" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1596531120901">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="31" y="303" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594523967133" />
-    <state x="211" y="0" key="new project wizard" timestamp="1594479009158">
+    <state x="499" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1596531120901" />
+    <state x="402" y="12" key="CommitChangelistDialog2" timestamp="1596067818519">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="211" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1594479009158" />
+    <state x="402" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596067818519" />
+    <state x="607" y="315" width="345" height="194" key="Github.CreateGistDialog" timestamp="1596163842691">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="607" y="315" width="345" height="194" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1596163842691" />
+    <state x="649" y="312" width="259" height="200" key="Github.ShareDialog" timestamp="1596068254709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="649" y="312" width="259" height="200" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1596068254709" />
+    <state width="554" height="718" key="GridCell.Tab.0.bottom" timestamp="1596531869450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="554" height="718" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596531869450" />
+    <state width="554" height="718" key="GridCell.Tab.0.center" timestamp="1596531869450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="554" height="718" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596531869450" />
+    <state width="554" height="718" key="GridCell.Tab.0.left" timestamp="1596531869450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="554" height="718" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596531869450" />
+    <state width="554" height="718" key="GridCell.Tab.0.right" timestamp="1596531869450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="554" height="718" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596531869450" />
+    <state width="1537" height="272" key="GridCell.Tab.1.bottom" timestamp="1596478952147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="272" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596478952147" />
+    <state width="1537" height="272" key="GridCell.Tab.1.center" timestamp="1596478952146">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="272" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596478952146" />
+    <state width="1537" height="272" key="GridCell.Tab.1.left" timestamp="1596478952146">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="272" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596478952146" />
+    <state width="1537" height="272" key="GridCell.Tab.1.right" timestamp="1596478952146">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="272" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596478952146" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1596531618907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596531618907" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1596164910985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596164910985" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595773646492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1595773646492" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1596528815908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596528815908" />
+    <state x="498" y="314" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595790795358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="314" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1595790795358" />
+    <state x="580" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596068112760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="580" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1596068112760" />
+    <state x="510" y="133" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596164291938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="133" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1596164291938" />
+    <state x="477" y="48" key="refactoring.ChangeSignatureDialog" timestamp="1595894356697">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="48" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1595894356697" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1596476446785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1596476446785" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596169044431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596169044431" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/eg/edu/alexu/csd/datastructure/linkedList/cs36/App.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
